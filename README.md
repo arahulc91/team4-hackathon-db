@@ -2,11 +2,29 @@
 
 ---
 
+
 ## 📖 Project Overview
 
 AutoDoc Generator is a developer productivity tool that automates the creation of project documentation (e.g., `README.md`) for public GitHub repositories. It analyzes repository metadata, code structure, and configuration files to generate clean, customizable markdown documentation.
 
 Built using a **microservices architecture**, it offers a modern web interface, REST API integration, and robust MongoDB storage. Ideal for open-source maintainers, hackathon teams, and dev tool builders.
+
+---
+
+## 👥 Project Stakeholders
+
+| Role                | Name                |
+|---------------------|---------------------|
+| Product Owner       | Alex Johnson        |
+| Project Manager     | Priya Patel         |
+| Lead Developer      | Jordan Lee          |
+| Backend Developer   | Casey Smith         |
+| Frontend Developer  | Morgan Brown        |
+| QA Engineer         | Taylor Kim          |
+| UX/UI Designer      | Jamie Chen          |
+| DevOps Engineer     | Riley Davis         |
+| Business Analyst    | Samira Ahmed        |
+| Sponsor            | Dr. Chris Walker    |
 
 **Key Features:**
 - 🔁 Automated README generation from GitHub repositories
@@ -257,11 +275,11 @@ Make sure to follow the linting and testing guidelines.
 ## 📞 Support
 
 **Technical Support Contacts:**
-| Area        | Contributors                         |
-|-------------|-------------------------------       |
-| Front End   | Sean Reilly, Lim Alain               |
-| Back End    | Alvin Chauhan, Sam Singh             |
-| Database    | Sharfraaz Khan, Nihaal, Doyal        |
+| Area        | Contributors                  |
+|-------------|-------------------------------|
+| Front End   | Sean Reilly, Lim Alain        |
+| Back End    | Alvin Chauhan, Sam Singh      |
+| Database    | Sharfraaz Khan, Nihaal        |
 
 For general issues or bugs, please open a GitHub Issue or contact support@example.com.
 
